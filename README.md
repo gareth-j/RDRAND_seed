@@ -29,6 +29,8 @@ Some random numbers...
 4012953650
 ```
 
+For use in other programs `-mrdrnd` must be added to the compiler flags.
+
 ### Requirements
 
 An processor that has the RDRAND instruction. Intel CPUs from Ivy Bridge onwards are compatible.
